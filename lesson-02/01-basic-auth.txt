@@ -1,0 +1,9 @@
+1. 
+- Truy cập base64 encode: nhập -> bba_academy:a102_class_secret
+YmJhX2FjYWRlbXk6YTEwMl9jbGFzc19zZWNyZXQ=
+
+2.
+https://httpbin.org/basic-auth/bba_academy/a102_class_secret
+header {
+    Authorization: Basic YmJhX2FjYWRlbXk6YTEwMl9jbGFzc19zZWNyZXQ
+}
