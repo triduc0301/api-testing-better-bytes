@@ -1,0 +1,11 @@
+<Student>
+    <name>Nguyen Van A</name>
+    <age>20</age>
+    <major>Computer Science</major>
+    <GPA>3.7</GPA>
+    <Courses>
+        <Course>Programming Fudamentals</Course>
+        <Course>Data Structures</Course>
+        <Course>Web Development</Course>
+    </Courses>
+</Student>
